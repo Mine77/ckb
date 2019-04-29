@@ -67,7 +67,7 @@ git checkout master
 make build
 ```
 
-This will build the executable `target/release/ckb`. Please add the directory
+This will build the executable `taet/release/ckb`. Please add the directory
 to `PATH` or copy/link the file into a directory already in the `PATH`.
 
 ```bash
